@@ -11,3 +11,5 @@ Além de estar iniciando minha jornada com:
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
             
 📚 Sempre em busca de novos aprendizados e desafios para aprimorar minhas habilidades!
+
+[![Luan Krauspenhar stats](https://github-readme-stats.vercel.app/api?username=luankrauspenhar)](https://github.com/anuraghazra/github-readme-stats)
