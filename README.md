@@ -13,4 +13,4 @@ Além de estar iniciando minha jornada com:
 📚 Sempre em busca de novos aprendizados e desafios para aprimorar minhas habilidades!
 
 ![Luan Krauspenhar stats](https://github-readme-stats.vercel.app/api?username=luankrauspenhar&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luankrauspenhar)](https://github.com/anuraghazra/github-readme-stats)
